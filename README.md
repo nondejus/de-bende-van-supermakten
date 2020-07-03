@@ -1,1 +1,0 @@
-# supermakt-event-horizon
